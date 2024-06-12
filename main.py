@@ -2082,4 +2082,6 @@ update_timer()
 
 window.mainloop()
 
+timer.start()
+
 
